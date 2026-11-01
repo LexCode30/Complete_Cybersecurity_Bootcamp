@@ -1,0 +1,730 @@
+{
+  "name": "Complete Cybersecurity Bootcamp",
+  "slug": "Complete_Cybersecurity_Bootcamp",
+  "url": "https://LexCode30.github.io/Complete_Cybersecurity_Bootcamp/",
+  "category": "cybersecurity",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Cybersecurity Bootcamp Zero to Mastery",
+          "id": "1-Tnf7iBGt-ML8_Go9d1ahkYm4HLuZAlc",
+          "anchor": "v-1-Tnf7iBGt-ML8_Go9d1ahkYm4HLuZAlc",
+          "href": "s1.html#v-1-Tnf7iBGt-ML8_Go9d1ahkYm4HLuZAlc"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Introduction To Cyber Security",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is Cyber Security",
+          "id": "11Vj175CWzMYPhDRBDRwlZIbuT33zEQ9d",
+          "anchor": "v-11Vj175CWzMYPhDRBDRwlZIbuT33zEQ9d",
+          "href": "s2.html#v-11Vj175CWzMYPhDRBDRwlZIbuT33zEQ9d"
+        },
+        {
+          "number": 2,
+          "title": "Cyber Security Prerequisites",
+          "id": "11ZZbEe0zrUtEnQMtjY6yznJy2CRUWDbR",
+          "anchor": "v-11ZZbEe0zrUtEnQMtjY6yznJy2CRUWDbR",
+          "href": "s2.html#v-11ZZbEe0zrUtEnQMtjY6yznJy2CRUWDbR"
+        },
+        {
+          "number": 3,
+          "title": "Most Common Cyber Security Paths",
+          "id": "11SosERSl_Ja3VaZr7K6eztiGDH50NGkR",
+          "anchor": "v-11SosERSl_Ja3VaZr7K6eztiGDH50NGkR",
+          "href": "s2.html#v-11SosERSl_Ja3VaZr7K6eztiGDH50NGkR"
+        },
+        {
+          "number": 4,
+          "title": "History of Cyber Security",
+          "id": "11bo6eMqi0exEVUacuLlXIqbu5R96ji5r",
+          "anchor": "v-11bo6eMqi0exEVUacuLlXIqbu5R96ji5r",
+          "href": "s2.html#v-11bo6eMqi0exEVUacuLlXIqbu5R96ji5r"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Cyber Security Basic Theory & Goals",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Goals Of Cyber Security",
+          "id": "11jz4erhwhTJq7T2FnfcUB8A9BNF-eKjR",
+          "anchor": "v-11jz4erhwhTJq7T2FnfcUB8A9BNF-eKjR",
+          "href": "s3.html#v-11jz4erhwhTJq7T2FnfcUB8A9BNF-eKjR"
+        },
+        {
+          "number": 2,
+          "title": "Blue Team vs Red Team",
+          "id": "11lhaVoT6mVWCQ35BaO5rdrZUjhC-p5KZ",
+          "anchor": "v-11lhaVoT6mVWCQ35BaO5rdrZUjhC-p5KZ",
+          "href": "s3.html#v-11lhaVoT6mVWCQ35BaO5rdrZUjhC-p5KZ"
+        },
+        {
+          "number": 3,
+          "title": "Protecting Assets",
+          "id": "11wi4nwfx4_7gmvcRHSK4mmsgl7CVknIR",
+          "anchor": "v-11wi4nwfx4_7gmvcRHSK4mmsgl7CVknIR",
+          "href": "s3.html#v-11wi4nwfx4_7gmvcRHSK4mmsgl7CVknIR"
+        },
+        {
+          "number": 4,
+          "title": "How Companies Get Compromised",
+          "id": "12-i6OeRLRPnOfrNV-bVO_F6Mbrl1DqnT",
+          "anchor": "v-12-i6OeRLRPnOfrNV-bVO_F6Mbrl1DqnT",
+          "href": "s3.html#v-12-i6OeRLRPnOfrNV-bVO_F6Mbrl1DqnT"
+        },
+        {
+          "number": 5,
+          "title": "Different Securities",
+          "id": "11e7zwL7h1JDJWliyHKgCv6IIDAd-p0Ap",
+          "anchor": "v-11e7zwL7h1JDJWliyHKgCv6IIDAd-p0Ap",
+          "href": "s3.html#v-11e7zwL7h1JDJWliyHKgCv6IIDAd-p0Ap"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Understanding Hackers - The Biggest Threat",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Who Are Hackers",
+          "id": "12FpmBoI-0ZSARJW-f54xoRqaLGN3Lo5H",
+          "anchor": "v-12FpmBoI-0ZSARJW-f54xoRqaLGN3Lo5H",
+          "href": "s4.html#v-12FpmBoI-0ZSARJW-f54xoRqaLGN3Lo5H"
+        },
+        {
+          "number": 2,
+          "title": "Most Common Attacks Demonstration",
+          "id": "12KImkrL62j0yfdMDR6oNDJaUXWmC9w_2",
+          "anchor": "v-12KImkrL62j0yfdMDR6oNDJaUXWmC9w_2",
+          "href": "s4.html#v-12KImkrL62j0yfdMDR6oNDJaUXWmC9w_2"
+        },
+        {
+          "number": 3,
+          "title": "Malware",
+          "id": "12SL4SXWOyXYRpNJyNMfITcN-ZL9RyHfm",
+          "anchor": "v-12SL4SXWOyXYRpNJyNMfITcN-ZL9RyHfm",
+          "href": "s4.html#v-12SL4SXWOyXYRpNJyNMfITcN-ZL9RyHfm"
+        },
+        {
+          "number": 4,
+          "title": "Can We Catch Them",
+          "id": "12V2XgGVSd4soPrmvroe5XxAKrN3oqs7y",
+          "anchor": "v-12V2XgGVSd4soPrmvroe5XxAKrN3oqs7y",
+          "href": "s4.html#v-12V2XgGVSd4soPrmvroe5XxAKrN3oqs7y"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Security Bugs & Vulnerabilities",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is a Vulnerability",
+          "id": "12_NzXUms2kDfZcGQiSBj8UXxu3n_pI9E",
+          "anchor": "v-12_NzXUms2kDfZcGQiSBj8UXxu3n_pI9E",
+          "href": "s5.html#v-12_NzXUms2kDfZcGQiSBj8UXxu3n_pI9E"
+        },
+        {
+          "number": 2,
+          "title": "Most Common Vulnerabilities",
+          "id": "12a0E7jZSUxYRvM1brPP88nX3f2Ip9FeV",
+          "anchor": "v-12a0E7jZSUxYRvM1brPP88nX3f2Ip9FeV",
+          "href": "s5.html#v-12a0E7jZSUxYRvM1brPP88nX3f2Ip9FeV"
+        },
+        {
+          "number": 3,
+          "title": "Unpatched Machine Exploitation Demonstration",
+          "id": "12dj5PKRV7-INrRWdlvVucnc6yDFAZ9St",
+          "anchor": "v-12dj5PKRV7-INrRWdlvVucnc6yDFAZ9St",
+          "href": "s5.html#v-12dj5PKRV7-INrRWdlvVucnc6yDFAZ9St"
+        },
+        {
+          "number": 4,
+          "title": "Preventing Vulnerabilities",
+          "id": "12iCRlBK68vsXiiaugoW3AhATV0_hnMGF",
+          "anchor": "v-12iCRlBK68vsXiiaugoW3AhATV0_hnMGF",
+          "href": "s5.html#v-12iCRlBK68vsXiiaugoW3AhATV0_hnMGF"
+        },
+        {
+          "number": 5,
+          "title": "Resources for Buffer Overflows",
+          "id": "12jhR1OEEVQ-Rgf-R6jtBhWZs6miKvE-d",
+          "anchor": "v-12jhR1OEEVQ-Rgf-R6jtBhWZs6miKvE-d",
+          "href": "s5.html#v-12jhR1OEEVQ-Rgf-R6jtBhWZs6miKvE-d"
+        },
+        {
+          "number": 6,
+          "title": "Buffer Overflow Demonstration",
+          "id": "12yKSDEbIL5c1fVz1_Y4cBkOWMdpk2V0b",
+          "anchor": "v-12yKSDEbIL5c1fVz1_Y4cBkOWMdpk2V0b",
+          "href": "s5.html#v-12yKSDEbIL5c1fVz1_Y4cBkOWMdpk2V0b"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Social Engineering Basics",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Social Engineering Attacks",
+          "id": "130WOZ6hL_-tyAuEMPhqXdDpBTOBfF4UN",
+          "anchor": "v-130WOZ6hL_-tyAuEMPhqXdDpBTOBfF4UN",
+          "href": "s6.html#v-130WOZ6hL_-tyAuEMPhqXdDpBTOBfF4UN"
+        },
+        {
+          "number": 2,
+          "title": "How To Recognize Phishing Emails",
+          "id": "131LMkdeg_v65pR21DvohyAAKQVnmUl_9",
+          "anchor": "v-131LMkdeg_v65pR21DvohyAAKQVnmUl_9",
+          "href": "s6.html#v-131LMkdeg_v65pR21DvohyAAKQVnmUl_9"
+        },
+        {
+          "number": 3,
+          "title": "Tools For Analyzing Phishing Attacks",
+          "id": "134XbJH3xWpfOzO2b0Lzcm5PLgCMbhS6m",
+          "anchor": "v-134XbJH3xWpfOzO2b0Lzcm5PLgCMbhS6m",
+          "href": "s6.html#v-134XbJH3xWpfOzO2b0Lzcm5PLgCMbhS6m"
+        },
+        {
+          "number": 4,
+          "title": "Summary Of Social Engineering",
+          "id": "135_0l_UohDMhwgI-HGnDpdMK6yv2vWFQ",
+          "anchor": "v-135_0l_UohDMhwgI-HGnDpdMK6yv2vWFQ",
+          "href": "s6.html#v-135_0l_UohDMhwgI-HGnDpdMK6yv2vWFQ"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "End-Point Protection",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "End-Point Protection Introduction",
+          "id": "13BGT-dgV5a6C3hvAnrnWWtJ7nXqQe5VU",
+          "anchor": "v-13BGT-dgV5a6C3hvAnrnWWtJ7nXqQe5VU",
+          "href": "s7.html#v-13BGT-dgV5a6C3hvAnrnWWtJ7nXqQe5VU"
+        },
+        {
+          "number": 2,
+          "title": "Browser Security",
+          "id": "138j6zLkS7feFaZ3bpgS8psuQQERMpdyS",
+          "anchor": "v-138j6zLkS7feFaZ3bpgS8psuQQERMpdyS",
+          "href": "s7.html#v-138j6zLkS7feFaZ3bpgS8psuQQERMpdyS"
+        },
+        {
+          "number": 3,
+          "title": "Firefox Security and Hardening",
+          "id": "13N7_UF64i-tkNdqp5mdmuttJmeojeGOS",
+          "anchor": "v-13N7_UF64i-tkNdqp5mdmuttJmeojeGOS",
+          "href": "s7.html#v-13N7_UF64i-tkNdqp5mdmuttJmeojeGOS"
+        },
+        {
+          "number": 4,
+          "title": "Brave Browser Security and Privacy",
+          "id": "13OVEOiqrjDhGmHWXE8U9uFpGwZsb9zA0",
+          "anchor": "v-13OVEOiqrjDhGmHWXE8U9uFpGwZsb9zA0",
+          "href": "s7.html#v-13OVEOiqrjDhGmHWXE8U9uFpGwZsb9zA0"
+        },
+        {
+          "number": 5,
+          "title": "Safari and Chrome Security Resources",
+          "id": "13O_3dTtwQvO0jHzPboVM9ssWHrY2HzT2",
+          "anchor": "v-13O_3dTtwQvO0jHzPboVM9ssWHrY2HzT2",
+          "href": "s7.html#v-13O_3dTtwQvO0jHzPboVM9ssWHrY2HzT2"
+        },
+        {
+          "number": 6,
+          "title": "Antivirus Theory",
+          "id": "13PY2zeR7c4bEv_Ky04gdfkd9mK54Kk5s",
+          "anchor": "v-13PY2zeR7c4bEv_Ky04gdfkd9mK54Kk5s",
+          "href": "s7.html#v-13PY2zeR7c4bEv_Ky04gdfkd9mK54Kk5s"
+        },
+        {
+          "number": 7,
+          "title": "Default Windows Security",
+          "id": "13YFeRco6e_vsEIJLb0lz7elXW6sz5imz",
+          "anchor": "v-13YFeRco6e_vsEIJLb0lz7elXW6sz5imz",
+          "href": "s7.html#v-13YFeRco6e_vsEIJLb0lz7elXW6sz5imz"
+        },
+        {
+          "number": 8,
+          "title": "MacOS XProtect and MRT",
+          "id": "13i1MG5aBjQx1Uyjh3BBmk05nKQFgAJVF",
+          "anchor": "v-13i1MG5aBjQx1Uyjh3BBmk05nKQFgAJVF",
+          "href": "s7.html#v-13i1MG5aBjQx1Uyjh3BBmk05nKQFgAJVF"
+        },
+        {
+          "number": 9,
+          "title": "Bitdefender Kaspersky McAfee Malwarebytes",
+          "id": "13iwHFCJwJ_UUXwGH4zAaABNmuVy76Ye3",
+          "anchor": "v-13iwHFCJwJ_UUXwGH4zAaABNmuVy76Ye3",
+          "href": "s7.html#v-13iwHFCJwJ_UUXwGH4zAaABNmuVy76Ye3"
+        },
+        {
+          "number": 10,
+          "title": "Password Security and Password Managers",
+          "id": "13loaQHSBJ8MkXYf_p4lVI90TXpUO6jFi",
+          "anchor": "v-13loaQHSBJ8MkXYf_p4lVI90TXpUO6jFi",
+          "href": "s7.html#v-13loaQHSBJ8MkXYf_p4lVI90TXpUO6jFi"
+        },
+        {
+          "number": 11,
+          "title": "Keepass",
+          "id": "13pHP0t9V5kooeYz1R12odK1cDDYzqGdD",
+          "anchor": "v-13pHP0t9V5kooeYz1R12odK1cDDYzqGdD",
+          "href": "s7.html#v-13pHP0t9V5kooeYz1R12odK1cDDYzqGdD"
+        },
+        {
+          "number": 12,
+          "title": "LastPass NordPass and 1Password",
+          "id": "148qQQDYP63dHgxLZds15pY3SMyx0om5i",
+          "anchor": "v-148qQQDYP63dHgxLZds15pY3SMyx0om5i",
+          "href": "s7.html#v-148qQQDYP63dHgxLZds15pY3SMyx0om5i"
+        },
+        {
+          "number": 13,
+          "title": "File and Disk Encryption",
+          "id": "14DSwQInbz2DFeGnGO-UMVzSyi95O9q8B",
+          "anchor": "v-14DSwQInbz2DFeGnGO-UMVzSyi95O9q8B",
+          "href": "s7.html#v-14DSwQInbz2DFeGnGO-UMVzSyi95O9q8B"
+        },
+        {
+          "number": 14,
+          "title": "Process Explorer",
+          "id": "14DWkj8iHVNedIsDdDL-3dKzzaE8Cl9SP",
+          "anchor": "v-14DWkj8iHVNedIsDdDL-3dKzzaE8Cl9SP",
+          "href": "s7.html#v-14DWkj8iHVNedIsDdDL-3dKzzaE8Cl9SP"
+        },
+        {
+          "number": 15,
+          "title": "Netstat and Wireshark",
+          "id": "14FTFkLwlKQLiVTqlh7CNVhNLVQBV7GOU",
+          "anchor": "v-14FTFkLwlKQLiVTqlh7CNVhNLVQBV7GOU",
+          "href": "s7.html#v-14FTFkLwlKQLiVTqlh7CNVhNLVQBV7GOU"
+        },
+        {
+          "number": 16,
+          "title": "Htop",
+          "id": "14FvF6z_1zGElkd5J0nIIx4efWLqeSTtg",
+          "anchor": "v-14FvF6z_1zGElkd5J0nIIx4efWLqeSTtg",
+          "href": "s7.html#v-14FvF6z_1zGElkd5J0nIIx4efWLqeSTtg"
+        },
+        {
+          "number": 17,
+          "title": "Rootkit Hunter",
+          "id": "14HlebXJ5ec8xL5adX-G61VoCfffKTEUs",
+          "anchor": "v-14HlebXJ5ec8xL5adX-G61VoCfffKTEUs",
+          "href": "s7.html#v-14HlebXJ5ec8xL5adX-G61VoCfffKTEUs"
+        },
+        {
+          "number": 18,
+          "title": "Host Based Firewalls",
+          "id": "14HxrpV65s21n3yvELrpO14GS_XI1iHAj",
+          "anchor": "v-14HxrpV65s21n3yvELrpO14GS_XI1iHAj",
+          "href": "s7.html#v-14HxrpV65s21n3yvELrpO14GS_XI1iHAj"
+        },
+        {
+          "number": 19,
+          "title": "Iptables",
+          "id": "14NH5-c-FcqoU9HqIXvSwZyu9V-bHNFNw",
+          "anchor": "v-14NH5-c-FcqoU9HqIXvSwZyu9V-bHNFNw",
+          "href": "s7.html#v-14NH5-c-FcqoU9HqIXvSwZyu9V-bHNFNw"
+        },
+        {
+          "number": 20,
+          "title": "Windows Defender Firewall",
+          "id": "14OYGvdhEyC3w2RUaFCn4w7bf7LBZMkMd",
+          "anchor": "v-14OYGvdhEyC3w2RUaFCn4w7bf7LBZMkMd",
+          "href": "s7.html#v-14OYGvdhEyC3w2RUaFCn4w7bf7LBZMkMd"
+        },
+        {
+          "number": 21,
+          "title": "Macos Firewall",
+          "id": "14bn-iNqkF3dhCG2WDUs1w2kA63in4ed1",
+          "anchor": "v-14bn-iNqkF3dhCG2WDUs1w2kA63in4ed1",
+          "href": "s7.html#v-14bn-iNqkF3dhCG2WDUs1w2kA63in4ed1"
+        },
+        {
+          "number": 22,
+          "title": "How To Securely Erase Files on Windows Linux Macos",
+          "id": "14cohIWeOauHMaWY4dYK5mk4BcizTeSxA",
+          "anchor": "v-14cohIWeOauHMaWY4dYK5mk4BcizTeSxA",
+          "href": "s7.html#v-14cohIWeOauHMaWY4dYK5mk4BcizTeSxA"
+        },
+        {
+          "number": 23,
+          "title": "End-Point Security Recap",
+          "id": "14j1a9ltthsWvQeqAAtd_kxuXIbJzdTAk",
+          "anchor": "v-14j1a9ltthsWvQeqAAtd_kxuXIbJzdTAk",
+          "href": "s7.html#v-14j1a9ltthsWvQeqAAtd_kxuXIbJzdTAk"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Network Security",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Network Security Introduction",
+          "id": "14nO4CL69hvffWqygqHQMZWeKDxK8em0g",
+          "anchor": "v-14nO4CL69hvffWqygqHQMZWeKDxK8em0g",
+          "href": "s8.html#v-14nO4CL69hvffWqygqHQMZWeKDxK8em0g"
+        },
+        {
+          "number": 2,
+          "title": "Network Firewalls Theory",
+          "id": "14qyGlvmjhUPE3CG2jBbdfm_2Hbk6Gjxk",
+          "anchor": "v-14qyGlvmjhUPE3CG2jBbdfm_2Hbk6Gjxk",
+          "href": "s8.html#v-14qyGlvmjhUPE3CG2jBbdfm_2Hbk6Gjxk"
+        },
+        {
+          "number": 3,
+          "title": "Different Network Firewalls",
+          "id": "14rWzDYkV2_RVd7YOTw9m4YS8DACg_jq_",
+          "anchor": "v-14rWzDYkV2_RVd7YOTw9m4YS8DACg_jq_",
+          "href": "s8.html#v-14rWzDYkV2_RVd7YOTw9m4YS8DACg_jq_"
+        },
+        {
+          "number": 4,
+          "title": "Network Scanning and Discovering Vulnerabilities",
+          "id": "150H7lBT6A2R214BZTsmAWQMuSl7yfr2N",
+          "anchor": "v-150H7lBT6A2R214BZTsmAWQMuSl7yfr2N",
+          "href": "s8.html#v-150H7lBT6A2R214BZTsmAWQMuSl7yfr2N"
+        },
+        {
+          "number": 5,
+          "title": "Network Security With Nmap",
+          "id": "15DWmEt-P5QKQ24UwhRlU0WK3PVoTo08W",
+          "anchor": "v-15DWmEt-P5QKQ24UwhRlU0WK3PVoTo08W",
+          "href": "s8.html#v-15DWmEt-P5QKQ24UwhRlU0WK3PVoTo08W"
+        },
+        {
+          "number": 6,
+          "title": "Discovering Vulnerabilities With Nessus",
+          "id": "15Ec3vQdQyXJojRjaL2popdGyqx-oD86e",
+          "anchor": "v-15Ec3vQdQyXJojRjaL2popdGyqx-oD86e",
+          "href": "s8.html#v-15Ec3vQdQyXJojRjaL2popdGyqx-oD86e"
+        },
+        {
+          "number": 7,
+          "title": "Scanning Windows 7 Machine With Nessus",
+          "id": "15IciuUypwpZ1yVJY9VdKltKLnn7Zz7R9",
+          "anchor": "v-15IciuUypwpZ1yVJY9VdKltKLnn7Zz7R9",
+          "href": "s8.html#v-15IciuUypwpZ1yVJY9VdKltKLnn7Zz7R9"
+        },
+        {
+          "number": 8,
+          "title": "Routersploit",
+          "id": "15JdECZsrV71iVYTCSLQGTBlTUSrjEiXI",
+          "anchor": "v-15JdECZsrV71iVYTCSLQGTBlTUSrjEiXI",
+          "href": "s8.html#v-15JdECZsrV71iVYTCSLQGTBlTUSrjEiXI"
+        },
+        {
+          "number": 9,
+          "title": "Router Default Credentials",
+          "id": "15LBBvfW9T8GxRa1Q-nambyUh_koRlkjs",
+          "anchor": "v-15LBBvfW9T8GxRa1Q-nambyUh_koRlkjs",
+          "href": "s8.html#v-15LBBvfW9T8GxRa1Q-nambyUh_koRlkjs"
+        },
+        {
+          "number": 10,
+          "title": "Secure Network Architecture",
+          "id": "15d-080mYw9XH0I2id5dgCTBnYkTjWI_C",
+          "anchor": "v-15d-080mYw9XH0I2id5dgCTBnYkTjWI_C",
+          "href": "s8.html#v-15d-080mYw9XH0I2id5dgCTBnYkTjWI_C"
+        },
+        {
+          "number": 11,
+          "title": "Wireless Security",
+          "id": "15fQSoJqrqeUGkBABYCMoB5UxoR1xVFVp",
+          "anchor": "v-15fQSoJqrqeUGkBABYCMoB5UxoR1xVFVp",
+          "href": "s8.html#v-15fQSoJqrqeUGkBABYCMoB5UxoR1xVFVp"
+        },
+        {
+          "number": 12,
+          "title": "Wireless Attack Demonstration",
+          "id": "15glIahdEgL4eVcqLzquXTeFqF_aa8ZJg",
+          "anchor": "v-15glIahdEgL4eVcqLzquXTeFqF_aa8ZJg",
+          "href": "s8.html#v-15glIahdEgL4eVcqLzquXTeFqF_aa8ZJg"
+        },
+        {
+          "number": 13,
+          "title": "Network Monitoring With TCPDump",
+          "id": "166hmBvcN-ALTCTdqIZXhPnXVrkozJUyY",
+          "anchor": "v-166hmBvcN-ALTCTdqIZXhPnXVrkozJUyY",
+          "href": "s8.html#v-166hmBvcN-ALTCTdqIZXhPnXVrkozJUyY"
+        },
+        {
+          "number": 14,
+          "title": "Common Network Attacks",
+          "id": "167kQrLCAWcx-soSF2hIllX0_skQ03fQg",
+          "anchor": "v-167kQrLCAWcx-soSF2hIllX0_skQ03fQg",
+          "href": "s8.html#v-167kQrLCAWcx-soSF2hIllX0_skQ03fQg"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Cyber Security Strategies",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Protect and Recover Strategy",
+          "id": "16NGDTvMX6SC5WuRaX_p4WK7_45zxpD9_",
+          "anchor": "v-16NGDTvMX6SC5WuRaX_p4WK7_45zxpD9_",
+          "href": "s9.html#v-16NGDTvMX6SC5WuRaX_p4WK7_45zxpD9_"
+        },
+        {
+          "number": 2,
+          "title": "Endpoint Protection Strategy",
+          "id": "16PgBvlTCoNw3X0R3flTvixWGcugFALTt",
+          "anchor": "v-16PgBvlTCoNw3X0R3flTvixWGcugFALTt",
+          "href": "s9.html#v-16PgBvlTCoNw3X0R3flTvixWGcugFALTt"
+        },
+        {
+          "number": 3,
+          "title": "Application Centric Strategy",
+          "id": "16V-wA2QEczI5cjl3TgBe5WQyznpOyADg",
+          "anchor": "v-16V-wA2QEczI5cjl3TgBe5WQyznpOyADg",
+          "href": "s9.html#v-16V-wA2QEczI5cjl3TgBe5WQyznpOyADg"
+        },
+        {
+          "number": 4,
+          "title": "Identity Centric Strategy",
+          "id": "16Y8EF03ZWeim50H_ceT20kJ9rAOJpNK-",
+          "anchor": "v-16Y8EF03ZWeim50H_ceT20kJ9rAOJpNK-",
+          "href": "s9.html#v-16Y8EF03ZWeim50H_ceT20kJ9rAOJpNK-"
+        },
+        {
+          "number": 5,
+          "title": "Data Centric Strategy",
+          "id": "16a-DvO0_EyNzS6b6GFRdeiPeppZUvLJX",
+          "anchor": "v-16a-DvO0_EyNzS6b6GFRdeiPeppZUvLJX",
+          "href": "s9.html#v-16a-DvO0_EyNzS6b6GFRdeiPeppZUvLJX"
+        },
+        {
+          "number": 6,
+          "title": "Attack Centric Strategy",
+          "id": "16hReaa271miFQm8YLPWrPAn6UfD5mMMl",
+          "anchor": "v-16hReaa271miFQm8YLPWrPAn6UfD5mMMl",
+          "href": "s9.html#v-16hReaa271miFQm8YLPWrPAn6UfD5mMMl"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Anonymity & Privacy",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "IP Tracking",
+          "id": "1-UHGO6GgqZPQxdf_Q8EXJSf13drPquRc",
+          "anchor": "v-1-UHGO6GgqZPQxdf_Q8EXJSf13drPquRc",
+          "href": "s10.html#v-1-UHGO6GgqZPQxdf_Q8EXJSf13drPquRc"
+        },
+        {
+          "number": 2,
+          "title": "Cookies and Browser Tracking",
+          "id": "1-UQFxFl4wjtVnOqKx7VOoTLklTdYcO4f",
+          "anchor": "v-1-UQFxFl4wjtVnOqKx7VOoTLklTdYcO4f",
+          "href": "s10.html#v-1-UQFxFl4wjtVnOqKx7VOoTLklTdYcO4f"
+        },
+        {
+          "number": 3,
+          "title": "Exercise Imposter Syndrome",
+          "id": "1-W5SscPLvhPKsTqjAO_H0Qgt1w4gLVe3",
+          "anchor": "v-1-W5SscPLvhPKsTqjAO_H0Qgt1w4gLVe3",
+          "href": "s10.html#v-1-W5SscPLvhPKsTqjAO_H0Qgt1w4gLVe3"
+        },
+        {
+          "number": 4,
+          "title": "Different Types of Tracking",
+          "id": "1-Ycmz4XcbBuXAoq1VZblW1l5oSHhgd1W",
+          "anchor": "v-1-Ycmz4XcbBuXAoq1VZblW1l5oSHhgd1W",
+          "href": "s10.html#v-1-Ycmz4XcbBuXAoq1VZblW1l5oSHhgd1W"
+        },
+        {
+          "number": 5,
+          "title": "Anonymity Theory",
+          "id": "1-gFfAuFdvTmFrZYrD1kBRd9eIgiIqs8W",
+          "anchor": "v-1-gFfAuFdvTmFrZYrD1kBRd9eIgiIqs8W",
+          "href": "s10.html#v-1-gFfAuFdvTmFrZYrD1kBRd9eIgiIqs8W"
+        },
+        {
+          "number": 6,
+          "title": "Tor Browser",
+          "id": "1-txW-wDYtdqSeR0UFhmB8lVxo4zrCa26",
+          "anchor": "v-1-txW-wDYtdqSeR0UFhmB8lVxo4zrCa26",
+          "href": "s10.html#v-1-txW-wDYtdqSeR0UFhmB8lVxo4zrCa26"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Appendix Ethical Hacking",
+      "page": "s11.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Proxychains With Different Tools",
+          "id": "10-O6EGFOyoGmMXmwpdVIgvhqB24oEwmH",
+          "anchor": "v-10-O6EGFOyoGmMXmwpdVIgvhqB24oEwmH",
+          "href": "s11.html#v-10-O6EGFOyoGmMXmwpdVIgvhqB24oEwmH"
+        },
+        {
+          "number": 2,
+          "title": "Installing VPN for Kali",
+          "id": "10-YGg0pgf364QU08sbT44Pvmxv8h4ugI",
+          "anchor": "v-10-YGg0pgf364QU08sbT44Pvmxv8h4ugI",
+          "href": "s11.html#v-10-YGg0pgf364QU08sbT44Pvmxv8h4ugI"
+        },
+        {
+          "number": 3,
+          "title": "Whoami Anonymity Tool",
+          "id": "100rgybbTDVFx_5kL0m_J0tpv1haQVrvl",
+          "anchor": "v-100rgybbTDVFx_5kL0m_J0tpv1haQVrvl",
+          "href": "s11.html#v-100rgybbTDVFx_5kL0m_J0tpv1haQVrvl"
+        },
+        {
+          "number": 4,
+          "title": "Steps to be as Anonymous as Possible",
+          "id": "101lf0-1DGSaJZjM7AkcIiP-iQKBS12Fd",
+          "anchor": "v-101lf0-1DGSaJZjM7AkcIiP-iQKBS12Fd",
+          "href": "s11.html#v-101lf0-1DGSaJZjM7AkcIiP-iQKBS12Fd"
+        },
+        {
+          "number": 5,
+          "title": "5 Stages Of A Penetration Test",
+          "id": "103MXTe5ZivkwBnbMYyRGA2qOBuii4CkX",
+          "anchor": "v-103MXTe5ZivkwBnbMYyRGA2qOBuii4CkX",
+          "href": "s11.html#v-103MXTe5ZivkwBnbMYyRGA2qOBuii4CkX"
+        },
+        {
+          "number": 6,
+          "title": "Obtaining IP Address Physical Address Using Whois Tool",
+          "id": "10EwpIEtEDvz_2bPBcYerqKE-0-wPvleb",
+          "anchor": "v-10EwpIEtEDvz_2bPBcYerqKE-0-wPvleb",
+          "href": "s11.html#v-10EwpIEtEDvz_2bPBcYerqKE-0-wPvleb"
+        },
+        {
+          "number": 7,
+          "title": "Whatweb Stealthy Scan",
+          "id": "10FWEIp1Ow50jYWxWUfjS9KGlFXzc58JT",
+          "anchor": "v-10FWEIp1Ow50jYWxWUfjS9KGlFXzc58JT",
+          "href": "s11.html#v-10FWEIp1Ow50jYWxWUfjS9KGlFXzc58JT"
+        },
+        {
+          "number": 8,
+          "title": "Gathering Emails Using theHarvester & Hunter.io",
+          "id": "10G7tb-hetggWOqbSN-5x6x5hofUwgsKp",
+          "anchor": "v-10G7tb-hetggWOqbSN-5x6x5hofUwgsKp",
+          "href": "s11.html#v-10G7tb-hetggWOqbSN-5x6x5hofUwgsKp"
+        },
+        {
+          "number": 9,
+          "title": "Theory Behind Scanning",
+          "id": "10L2KiTuK1BypdH3i0vFeO-Zw8d3t6Ncj",
+          "anchor": "v-10L2KiTuK1BypdH3i0vFeO-Zw8d3t6Ncj",
+          "href": "s11.html#v-10L2KiTuK1BypdH3i0vFeO-Zw8d3t6Ncj"
+        },
+        {
+          "number": 10,
+          "title": "TCP & UDP",
+          "id": "10MplPBo8Dvck4YLlvv21czZEKOgwLxF7",
+          "anchor": "v-10MplPBo8Dvck4YLlvv21czZEKOgwLxF7",
+          "href": "s11.html#v-10MplPBo8Dvck4YLlvv21czZEKOgwLxF7"
+        },
+        {
+          "number": 11,
+          "title": "Netdiscover",
+          "id": "10Zaw24QUiV2SYEmBE6hh8jSRHheUfocW",
+          "anchor": "v-10Zaw24QUiV2SYEmBE6hh8jSRHheUfocW",
+          "href": "s11.html#v-10Zaw24QUiV2SYEmBE6hh8jSRHheUfocW"
+        },
+        {
+          "number": 12,
+          "title": "What is Exploitation",
+          "id": "10ketBXS4UIkCIrE9VXADFgPYvH9LznuS",
+          "anchor": "v-10ketBXS4UIkCIrE9VXADFgPYvH9LznuS",
+          "href": "s11.html#v-10ketBXS4UIkCIrE9VXADFgPYvH9LznuS"
+        },
+        {
+          "number": 13,
+          "title": "Reverse Shells Bind Shells",
+          "id": "110e8qffHrZIhA6EeDlxs81P_ot6XINJ8",
+          "anchor": "v-110e8qffHrZIhA6EeDlxs81P_ot6XINJ8",
+          "href": "s11.html#v-110e8qffHrZIhA6EeDlxs81P_ot6XINJ8"
+        },
+        {
+          "number": 14,
+          "title": "Msfconsole Basic Commands",
+          "id": "113o7gztb_h0xaCjbhUUJbMs1GVCksn4n",
+          "anchor": "v-113o7gztb_h0xaCjbhUUJbMs1GVCksn4n",
+          "href": "s11.html#v-113o7gztb_h0xaCjbhUUJbMs1GVCksn4n"
+        },
+        {
+          "number": 15,
+          "title": "Our First Exploit - vsftp 2.3.4 Exploitation",
+          "id": "117l0LJmGRX1279dQg6F2UFsdTq1vcXFl",
+          "anchor": "v-117l0LJmGRX1279dQg6F2UFsdTq1vcXFl",
+          "href": "s11.html#v-117l0LJmGRX1279dQg6F2UFsdTq1vcXFl"
+        },
+        {
+          "number": 16,
+          "title": "Software Vulnerability - Samba Exploitation",
+          "id": "11CieBXv8ONZsDAfUm0sGlGD5GH3qYW69",
+          "anchor": "v-11CieBXv8ONZsDAfUm0sGlGD5GH3qYW69",
+          "href": "s11.html#v-11CieBXv8ONZsDAfUm0sGlGD5GH3qYW69"
+        },
+        {
+          "number": 17,
+          "title": "Generating Basic Payload With Msfvenom",
+          "id": "11Ni-yvnthQSLej6gorfBFPVE1WEiU_Gk",
+          "anchor": "v-11Ni-yvnthQSLej6gorfBFPVE1WEiU_Gk",
+          "href": "s11.html#v-11Ni-yvnthQSLej6gorfBFPVE1WEiU_Gk"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Where To Go From Here",
+      "page": "s12.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Advance Msfvenom Usage",
+          "id": "11U0xh8mm4wCU6qU6GFOylaryakytRZN4",
+          "anchor": "v-11U0xh8mm4wCU6qU6GFOylaryakytRZN4",
+          "href": "s12.html#v-11U0xh8mm4wCU6qU6GFOylaryakytRZN4"
+        }
+      ]
+    }
+  ]
+}

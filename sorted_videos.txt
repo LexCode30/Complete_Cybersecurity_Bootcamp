@@ -1,0 +1,116 @@
+# Complete Cybersecurity Bootcamp
+
+1. Introduction  [s1.html]
+    001. Cybersecurity Bootcamp Zero to Mastery  ->  https://drive.google.com/file/d/1-Tnf7iBGt-ML8_Go9d1ahkYm4HLuZAlc/preview
+
+2. Introduction To Cyber Security  [s2.html]
+    001. What is Cyber Security  ->  https://drive.google.com/file/d/11Vj175CWzMYPhDRBDRwlZIbuT33zEQ9d/preview
+    002. Cyber Security Prerequisites  ->  https://drive.google.com/file/d/11ZZbEe0zrUtEnQMtjY6yznJy2CRUWDbR/preview
+    003. Most Common Cyber Security Paths  ->  https://drive.google.com/file/d/11SosERSl_Ja3VaZr7K6eztiGDH50NGkR/preview
+    004. History of Cyber Security  ->  https://drive.google.com/file/d/11bo6eMqi0exEVUacuLlXIqbu5R96ji5r/preview
+
+3. Cyber Security Basic Theory & Goals  [s3.html]
+    001. Goals Of Cyber Security  ->  https://drive.google.com/file/d/11jz4erhwhTJq7T2FnfcUB8A9BNF-eKjR/preview
+    002. Blue Team vs Red Team  ->  https://drive.google.com/file/d/11lhaVoT6mVWCQ35BaO5rdrZUjhC-p5KZ/preview
+    003. Protecting Assets  ->  https://drive.google.com/file/d/11wi4nwfx4_7gmvcRHSK4mmsgl7CVknIR/preview
+    004. How Companies Get Compromised  ->  https://drive.google.com/file/d/12-i6OeRLRPnOfrNV-bVO_F6Mbrl1DqnT/preview
+    005. Different Securities  ->  https://drive.google.com/file/d/11e7zwL7h1JDJWliyHKgCv6IIDAd-p0Ap/preview
+
+4. Understanding Hackers - The Biggest Threat  [s4.html]
+    001. Who Are Hackers  ->  https://drive.google.com/file/d/12FpmBoI-0ZSARJW-f54xoRqaLGN3Lo5H/preview
+    002. Most Common Attacks Demonstration  ->  https://drive.google.com/file/d/12KImkrL62j0yfdMDR6oNDJaUXWmC9w_2/preview
+    003. Malware  ->  https://drive.google.com/file/d/12SL4SXWOyXYRpNJyNMfITcN-ZL9RyHfm/preview
+    004. Can We Catch Them  ->  https://drive.google.com/file/d/12V2XgGVSd4soPrmvroe5XxAKrN3oqs7y/preview
+
+5. Security Bugs & Vulnerabilities  [s5.html]
+    001. What is a Vulnerability  ->  https://drive.google.com/file/d/12_NzXUms2kDfZcGQiSBj8UXxu3n_pI9E/preview
+    002. Most Common Vulnerabilities  ->  https://drive.google.com/file/d/12a0E7jZSUxYRvM1brPP88nX3f2Ip9FeV/preview
+    003. Unpatched Machine Exploitation Demonstration  ->  https://drive.google.com/file/d/12dj5PKRV7-INrRWdlvVucnc6yDFAZ9St/preview
+    004. Preventing Vulnerabilities  ->  https://drive.google.com/file/d/12iCRlBK68vsXiiaugoW3AhATV0_hnMGF/preview
+    005. Resources for Buffer Overflows  ->  https://drive.google.com/file/d/12jhR1OEEVQ-Rgf-R6jtBhWZs6miKvE-d/preview
+    006. Buffer Overflow Demonstration  ->  https://drive.google.com/file/d/12yKSDEbIL5c1fVz1_Y4cBkOWMdpk2V0b/preview
+
+6. Social Engineering Basics  [s6.html]
+    001. Social Engineering Attacks  ->  https://drive.google.com/file/d/130WOZ6hL_-tyAuEMPhqXdDpBTOBfF4UN/preview
+    002. How To Recognize Phishing Emails  ->  https://drive.google.com/file/d/131LMkdeg_v65pR21DvohyAAKQVnmUl_9/preview
+    003. Tools For Analyzing Phishing Attacks  ->  https://drive.google.com/file/d/134XbJH3xWpfOzO2b0Lzcm5PLgCMbhS6m/preview
+    004. Summary Of Social Engineering  ->  https://drive.google.com/file/d/135_0l_UohDMhwgI-HGnDpdMK6yv2vWFQ/preview
+
+7. End-Point Protection  [s7.html]
+    001. End-Point Protection Introduction  ->  https://drive.google.com/file/d/13BGT-dgV5a6C3hvAnrnWWtJ7nXqQe5VU/preview
+    002. Browser Security  ->  https://drive.google.com/file/d/138j6zLkS7feFaZ3bpgS8psuQQERMpdyS/preview
+    003. Firefox Security and Hardening  ->  https://drive.google.com/file/d/13N7_UF64i-tkNdqp5mdmuttJmeojeGOS/preview
+    004. Brave Browser Security and Privacy  ->  https://drive.google.com/file/d/13OVEOiqrjDhGmHWXE8U9uFpGwZsb9zA0/preview
+    005. Safari and Chrome Security Resources  ->  https://drive.google.com/file/d/13O_3dTtwQvO0jHzPboVM9ssWHrY2HzT2/preview
+    006. Antivirus Theory  ->  https://drive.google.com/file/d/13PY2zeR7c4bEv_Ky04gdfkd9mK54Kk5s/preview
+    007. Default Windows Security  ->  https://drive.google.com/file/d/13YFeRco6e_vsEIJLb0lz7elXW6sz5imz/preview
+    008. MacOS XProtect and MRT  ->  https://drive.google.com/file/d/13i1MG5aBjQx1Uyjh3BBmk05nKQFgAJVF/preview
+    009. Bitdefender Kaspersky McAfee Malwarebytes  ->  https://drive.google.com/file/d/13iwHFCJwJ_UUXwGH4zAaABNmuVy76Ye3/preview
+    010. Password Security and Password Managers  ->  https://drive.google.com/file/d/13loaQHSBJ8MkXYf_p4lVI90TXpUO6jFi/preview
+    011. Keepass  ->  https://drive.google.com/file/d/13pHP0t9V5kooeYz1R12odK1cDDYzqGdD/preview
+    012. LastPass NordPass and 1Password  ->  https://drive.google.com/file/d/148qQQDYP63dHgxLZds15pY3SMyx0om5i/preview
+    013. File and Disk Encryption  ->  https://drive.google.com/file/d/14DSwQInbz2DFeGnGO-UMVzSyi95O9q8B/preview
+    014. Process Explorer  ->  https://drive.google.com/file/d/14DWkj8iHVNedIsDdDL-3dKzzaE8Cl9SP/preview
+    015. Netstat and Wireshark  ->  https://drive.google.com/file/d/14FTFkLwlKQLiVTqlh7CNVhNLVQBV7GOU/preview
+    016. Htop  ->  https://drive.google.com/file/d/14FvF6z_1zGElkd5J0nIIx4efWLqeSTtg/preview
+    017. Rootkit Hunter  ->  https://drive.google.com/file/d/14HlebXJ5ec8xL5adX-G61VoCfffKTEUs/preview
+    018. Host Based Firewalls  ->  https://drive.google.com/file/d/14HxrpV65s21n3yvELrpO14GS_XI1iHAj/preview
+    019. Iptables  ->  https://drive.google.com/file/d/14NH5-c-FcqoU9HqIXvSwZyu9V-bHNFNw/preview
+    020. Windows Defender Firewall  ->  https://drive.google.com/file/d/14OYGvdhEyC3w2RUaFCn4w7bf7LBZMkMd/preview
+    021. Macos Firewall  ->  https://drive.google.com/file/d/14bn-iNqkF3dhCG2WDUs1w2kA63in4ed1/preview
+    022. How To Securely Erase Files on Windows Linux Macos  ->  https://drive.google.com/file/d/14cohIWeOauHMaWY4dYK5mk4BcizTeSxA/preview
+    023. End-Point Security Recap  ->  https://drive.google.com/file/d/14j1a9ltthsWvQeqAAtd_kxuXIbJzdTAk/preview
+
+8. Network Security  [s8.html]
+    001. Network Security Introduction  ->  https://drive.google.com/file/d/14nO4CL69hvffWqygqHQMZWeKDxK8em0g/preview
+    002. Network Firewalls Theory  ->  https://drive.google.com/file/d/14qyGlvmjhUPE3CG2jBbdfm_2Hbk6Gjxk/preview
+    003. Different Network Firewalls  ->  https://drive.google.com/file/d/14rWzDYkV2_RVd7YOTw9m4YS8DACg_jq_/preview
+    004. Network Scanning and Discovering Vulnerabilities  ->  https://drive.google.com/file/d/150H7lBT6A2R214BZTsmAWQMuSl7yfr2N/preview
+    005. Network Security With Nmap  ->  https://drive.google.com/file/d/15DWmEt-P5QKQ24UwhRlU0WK3PVoTo08W/preview
+    006. Discovering Vulnerabilities With Nessus  ->  https://drive.google.com/file/d/15Ec3vQdQyXJojRjaL2popdGyqx-oD86e/preview
+    007. Scanning Windows 7 Machine With Nessus  ->  https://drive.google.com/file/d/15IciuUypwpZ1yVJY9VdKltKLnn7Zz7R9/preview
+    008. Routersploit  ->  https://drive.google.com/file/d/15JdECZsrV71iVYTCSLQGTBlTUSrjEiXI/preview
+    009. Router Default Credentials  ->  https://drive.google.com/file/d/15LBBvfW9T8GxRa1Q-nambyUh_koRlkjs/preview
+    010. Secure Network Architecture  ->  https://drive.google.com/file/d/15d-080mYw9XH0I2id5dgCTBnYkTjWI_C/preview
+    011. Wireless Security  ->  https://drive.google.com/file/d/15fQSoJqrqeUGkBABYCMoB5UxoR1xVFVp/preview
+    012. Wireless Attack Demonstration  ->  https://drive.google.com/file/d/15glIahdEgL4eVcqLzquXTeFqF_aa8ZJg/preview
+    013. Network Monitoring With TCPDump  ->  https://drive.google.com/file/d/166hmBvcN-ALTCTdqIZXhPnXVrkozJUyY/preview
+    014. Common Network Attacks  ->  https://drive.google.com/file/d/167kQrLCAWcx-soSF2hIllX0_skQ03fQg/preview
+
+9. Cyber Security Strategies  [s9.html]
+    001. Protect and Recover Strategy  ->  https://drive.google.com/file/d/16NGDTvMX6SC5WuRaX_p4WK7_45zxpD9_/preview
+    002. Endpoint Protection Strategy  ->  https://drive.google.com/file/d/16PgBvlTCoNw3X0R3flTvixWGcugFALTt/preview
+    003. Application Centric Strategy  ->  https://drive.google.com/file/d/16V-wA2QEczI5cjl3TgBe5WQyznpOyADg/preview
+    004. Identity Centric Strategy  ->  https://drive.google.com/file/d/16Y8EF03ZWeim50H_ceT20kJ9rAOJpNK-/preview
+    005. Data Centric Strategy  ->  https://drive.google.com/file/d/16a-DvO0_EyNzS6b6GFRdeiPeppZUvLJX/preview
+    006. Attack Centric Strategy  ->  https://drive.google.com/file/d/16hReaa271miFQm8YLPWrPAn6UfD5mMMl/preview
+
+10. Anonymity & Privacy  [s10.html]
+    001. IP Tracking  ->  https://drive.google.com/file/d/1-UHGO6GgqZPQxdf_Q8EXJSf13drPquRc/preview
+    002. Cookies and Browser Tracking  ->  https://drive.google.com/file/d/1-UQFxFl4wjtVnOqKx7VOoTLklTdYcO4f/preview
+    003. Exercise Imposter Syndrome  ->  https://drive.google.com/file/d/1-W5SscPLvhPKsTqjAO_H0Qgt1w4gLVe3/preview
+    004. Different Types of Tracking  ->  https://drive.google.com/file/d/1-Ycmz4XcbBuXAoq1VZblW1l5oSHhgd1W/preview
+    005. Anonymity Theory  ->  https://drive.google.com/file/d/1-gFfAuFdvTmFrZYrD1kBRd9eIgiIqs8W/preview
+    006. Tor Browser  ->  https://drive.google.com/file/d/1-txW-wDYtdqSeR0UFhmB8lVxo4zrCa26/preview
+
+11. Appendix Ethical Hacking  [s11.html]
+    001. Proxychains With Different Tools  ->  https://drive.google.com/file/d/10-O6EGFOyoGmMXmwpdVIgvhqB24oEwmH/preview
+    002. Installing VPN for Kali  ->  https://drive.google.com/file/d/10-YGg0pgf364QU08sbT44Pvmxv8h4ugI/preview
+    003. Whoami Anonymity Tool  ->  https://drive.google.com/file/d/100rgybbTDVFx_5kL0m_J0tpv1haQVrvl/preview
+    004. Steps to be as Anonymous as Possible  ->  https://drive.google.com/file/d/101lf0-1DGSaJZjM7AkcIiP-iQKBS12Fd/preview
+    005. 5 Stages Of A Penetration Test  ->  https://drive.google.com/file/d/103MXTe5ZivkwBnbMYyRGA2qOBuii4CkX/preview
+    006. Obtaining IP Address Physical Address Using Whois Tool  ->  https://drive.google.com/file/d/10EwpIEtEDvz_2bPBcYerqKE-0-wPvleb/preview
+    007. Whatweb Stealthy Scan  ->  https://drive.google.com/file/d/10FWEIp1Ow50jYWxWUfjS9KGlFXzc58JT/preview
+    008. Gathering Emails Using theHarvester & Hunter.io  ->  https://drive.google.com/file/d/10G7tb-hetggWOqbSN-5x6x5hofUwgsKp/preview
+    009. Theory Behind Scanning  ->  https://drive.google.com/file/d/10L2KiTuK1BypdH3i0vFeO-Zw8d3t6Ncj/preview
+    010. TCP & UDP  ->  https://drive.google.com/file/d/10MplPBo8Dvck4YLlvv21czZEKOgwLxF7/preview
+    011. Netdiscover  ->  https://drive.google.com/file/d/10Zaw24QUiV2SYEmBE6hh8jSRHheUfocW/preview
+    012. What is Exploitation  ->  https://drive.google.com/file/d/10ketBXS4UIkCIrE9VXADFgPYvH9LznuS/preview
+    013. Reverse Shells Bind Shells  ->  https://drive.google.com/file/d/110e8qffHrZIhA6EeDlxs81P_ot6XINJ8/preview
+    014. Msfconsole Basic Commands  ->  https://drive.google.com/file/d/113o7gztb_h0xaCjbhUUJbMs1GVCksn4n/preview
+    015. Our First Exploit - vsftp 2.3.4 Exploitation  ->  https://drive.google.com/file/d/117l0LJmGRX1279dQg6F2UFsdTq1vcXFl/preview
+    016. Software Vulnerability - Samba Exploitation  ->  https://drive.google.com/file/d/11CieBXv8ONZsDAfUm0sGlGD5GH3qYW69/preview
+    017. Generating Basic Payload With Msfvenom  ->  https://drive.google.com/file/d/11Ni-yvnthQSLej6gorfBFPVE1WEiU_Gk/preview
+
+12. Where To Go From Here  [s12.html]
+    001. Advance Msfvenom Usage  ->  https://drive.google.com/file/d/11U0xh8mm4wCU6qU6GFOylaryakytRZN4/preview
